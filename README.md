@@ -1,1 +1,1 @@
-0x00. AirBnB clone - The console Task
+0x00. AirBnB clone - The console
